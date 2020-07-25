@@ -1,4 +1,4 @@
-##week 3 project assignment 2
+##week 3 programming assignment 2
 ##This function creates a special matrix object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
   j <- NULL
